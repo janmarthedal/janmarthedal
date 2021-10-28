@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![GitHub](https://img.shields.io/badge/GitHub-%40janmarthedal-239a3b.svg)](https://github.com/janmarthedal)
+[![Twitter](https://img.shields.io/badge/Twitter-%40janmarthedal-58a1f2.svg)](https://twitter.com/janmarthedal)
+[![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/janmr/)
+
 I am a Senior Software Engineer from Denmark.
 
 My home page: [janmr.com](https://janmr.com)
