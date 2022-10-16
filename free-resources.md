@@ -1,3 +1,8 @@
+# Classical Papers
+
+* Learning representations by back-propagating errors (Geoffrey Hinton et. al.) http://www.iro.umontreal.ca/~pift6266/A06/refs/backprop_old.pdf
+* Making reliable distributed systems in the presence of software errors (PhD thesis of Joe Armstrong, Erlang’s co-inventor, describing the origins of Erlang) https://erlang.org/download/armstrong_thesis_2003.pdf
+
 # Online Books
 
 ## Computer Science
@@ -6,7 +11,6 @@
 * Category Theory for Programmers (Bartosz Milewski) https://github.com/hmemcpy/milewski-ctfp-pdf
 * Freely available programming books https://github.com/EbookFoundation/free-programming-books/
 * Introduction to the Theory of Programming Languages (Bertrand Meyer) https://bertrandmeyer.com/itpl/
-* Making reliable distributed systems in the presence of software errors (PhD thesis of Joe Armstrong, Erlang’s co-inventor, describing the origins of Erlang) https://erlang.org/download/armstrong_thesis_2003.pdf
 * Pro Git https://git-scm.com/book/en/v2
 
 ## Mathematics
