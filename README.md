@@ -1,26 +1,9 @@
 ### Hi there 👋
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40janmarthedal-239a3b.svg)](https://github.com/janmarthedal)
-[![Twitter](https://img.shields.io/badge/Twitter-%40janmarthedal-58a1f2.svg)](https://twitter.com/janmarthedal)
+[![Bluesky](https://img.shields.io/badge/Bluesky-@janmr.com-1083fe.svg)](https://bsky.app/profile/janmr.com)
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/janmr/)
 
-I am a Simulation and Modelling Engineer from Denmark.
+I am a Senior Backend Engineer from Denmark.
 
 My home page: [janmr.com](https://janmr.com)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janmarthedal&exclude_repo=aaplus,eukleides,CindyJS-builds,mathml2svg&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**janmarthedal/janmarthedal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
